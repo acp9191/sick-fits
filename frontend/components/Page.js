@@ -54,7 +54,7 @@ injectGlobal`
   }
 `;
 
-class Page extends Component { 
+class Page extends Component {
   render() {
     return (
       <ThemeProvider theme={theme}>
